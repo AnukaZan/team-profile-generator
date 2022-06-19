@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^28.1.1"
+    "jest": "^28.1.1",
+    "react-scripts": "^4.0.1"
   }
 }
