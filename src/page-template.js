@@ -129,7 +129,7 @@ const generatePage = templateData => {
 
         <main class = "container">
             <div class = "columns">
-                ${templateData};
+                ${templateData}
             </div>
         </main>
     `;
